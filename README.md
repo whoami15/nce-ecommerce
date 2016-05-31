@@ -3,8 +3,7 @@
 # NCE COMPUTER CENTER e-commerce
 
 
-######################################..........CHANGELOG .......###################################
-
+#########..........CHANGELOG .......########
 
 Month Day 2016
 
@@ -13,15 +12,13 @@ New Back End Template (thanks to Lumino Admin Bootstrap Template)
 New Front End Template (thanks to E-shopper Fresh Market Template)
 
 
-##############################..........UPCOMING UPDATES .......############################
+#########..........UPCOMING UPDATES .......########
 
 * Wishlist
 
 And many many more............
 
-
-######################################..........FEATURES .......###################################
-
+##########..........FEATURES .......##########
 
  *backend - admin panel.
   - add products
@@ -50,9 +47,7 @@ And many many more............
   - product Zooming
   - etc.
 
-
-################################........INSTALLATION.........#############################
-
+#########........INSTALLATION.........##########
 
 Installation (for localhost)
 
@@ -71,3 +66,18 @@ Installation for (live server)
 
 DONE!
 
+
+Everyone is permitted to copy and distribute verbatim or modified copies of this license document, and changing it is allowed as long as the name is changed.
+
+DON'T BE A DICK PUBLIC LICENSE TERMS AND CONDITIONS FOR COPYING, DISTRIBUTION AND MODIFICATION
+Do whatever you like with the original work, just don't be a dick.
+
+Being a dick includes - but is not limited to - the following instances:
+
+1a. Outright copyright infringement - Don't just copy this and change the name.
+1b. Selling the unmodified original with no work done what-so-ever, that's REALLY being a dick.
+1c. Modifying the original work to contain hidden harmful content. That would make you a PROPER dick.
+
+If you become rich through modifications, related works/services, or supporting the original work, share the love. Only a dick would make loads off this work and not buy the original work's creator(s) a pint.
+
+Code is provided with no warranty. Using somebody else's code and bitching when it goes wrong makes you a DONKEY dick. Fix the problem yourself. A non-dick would submit the fix back.
