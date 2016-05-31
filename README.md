@@ -2,6 +2,9 @@
 
 # NCE COMPUTER CENTER e-commerce
 
+#DEMO
+http://www.ncecalapan.thats.im
+http://itdevpro.pcriot.com
 
 #########..........CHANGELOG .......########
 
