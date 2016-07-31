@@ -17,6 +17,11 @@ New Front End Template (thanks to E-shopper Fresh Market Template)
 
 #########..........UPCOMING UPDATES .......########
 
+* Coupon code for discount
+* 
+
+####### Added Update ######
+
 * Wishlist
 
 And many many more............
